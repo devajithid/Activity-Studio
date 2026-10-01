@@ -55,8 +55,7 @@ configure services, and build complete Open Rails activities.
 ----------------------------------------------------------------------
 If you run into any issues:
 - Go to "Help" -> "Open Log File" in the application menu.
-- Report issues or share feedback on GitHub:
-  https://github.com/devajithid/Activity-Studio/issues
+- Report issues or share feedback from Help menu in App
 
 ----------------------------------------------------------------------
 GitHub: https://github.com/devajithid/Activity-Studio
